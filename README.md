@@ -3,7 +3,6 @@
 <p align="left">
   
 
-<a href="https://www.linkedin.com/in/giovanni-cabrera-rivas-637481279/" target="blank"><img align="center" src="https://www.linkedin.com/in/giovanni-cabrera-rivas-637481279/&logoColor=white" alt="yio"/></a>
 
   </p>
 <br>
